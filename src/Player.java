@@ -1,5 +1,3 @@
-package oo_tic_tac_toe;
-
 import java.util.Scanner;
 
 public class Player extends Board {
